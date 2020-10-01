@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'y%r%gflj=7w(ei1o#n&rb#)h5))mrf@j*3jp5(z(b_6jf=t@3)'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ["127.0.0.1", "vehicledetection.herokuapp.com"]
 
