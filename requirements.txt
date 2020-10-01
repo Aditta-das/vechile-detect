@@ -16,5 +16,5 @@ sqlparse==0.3.1
 tensorflow-cpu==2.2.0
 tensorflow-estimator==2.2.0
 whitenoise==5.2.0
-opencv-python==4.3.0.36
+opencv-python-headless==4.2.0.32
 pyttsx3==2.90
